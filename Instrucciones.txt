@@ -1,0 +1,3 @@
+- Crear un dominio para el sitio para que se ejecute correctamente (Durante las pruebas se utilizo el dominio registro.grm.sld.cu)
+- Darle permiso a la carpeta logs que se encuentra dentro de pages
+
